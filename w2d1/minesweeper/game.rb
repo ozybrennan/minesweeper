@@ -55,5 +55,3 @@ class Game
   end
 
 end
-
-Game.new(9).run
